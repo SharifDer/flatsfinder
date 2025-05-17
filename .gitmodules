@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/SharifDer/flat-finder-go
+[submodule "backend"]
+	path = backend
+	url = https://github.com/SharifDer/flats_backend.git
